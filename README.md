@@ -2,7 +2,7 @@
 "FlowerPot " Flex Command in SolidWorks (Project 4)
 # 🌺 FlowerPot – Flex Command in SolidWorks (Project 4)
 
-My Project Direct Youtube Link - https://youtu.be/NSflgUUkcYQ
+(My Youtube Channel) Project Direct Youtube Link - https://youtu.be/NSflgUUkcYQ
 
 ## 📌 Project Description
 
@@ -52,7 +52,9 @@ The aim was to explore surface manipulation, decorative form design, and real-wo
 ## 👨‍💻 Author
 
 Bandela Shiva Kumar
-Mechanical Engineering Student  
+
+Mechanical Engineering Student
+
 GitHub: https://github.com/BandelaShivaKumar
 
 ---
